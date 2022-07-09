@@ -1,5 +1,3 @@
-# react-russian-map
+# react-russian-colored-map
 
-[![Build Status](https://travis-ci.org/vaeum/react-russian-map.svg?branch=master)](https://travis-ci.org/vaeum/react-russian-map)
-
-React component russian map
+React component russian colored map
