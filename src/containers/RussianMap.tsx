@@ -88,4 +88,4 @@ const RussianMap: React.FC<RussianMapType> = (props: RussianMapType): JSX.Elemen
     );
 }
 
-export default React.memo(RussianMap)
+export default RussianMap
