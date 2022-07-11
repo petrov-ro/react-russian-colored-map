@@ -1,6 +1,6 @@
 {
   "name": "react-russian-colored-map",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React component russian colored map",
   "main": "lib/russianMap.js",
   "scripts": {

@@ -1,11 +1,10 @@
 const path = require('path');
-const webpack = require('webpack');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const DotenvPlug = require('dotenv-webpack');
 
 module.exports = {
   mode: 'production',
-  entry: './src/index',
+  entry: './src/index.js',
   output: {
     path: __dirname + '/dist',
     filename: 'bundle.js',
