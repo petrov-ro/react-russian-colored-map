@@ -1,6 +1,6 @@
 {
   "name": "react-russian-colored-map",
-  "version": "0.0.4",
+  "version": "0.1.1",
   "description": "React component russian colored map",
   "main": "lib/russianMap.js",
   "scripts": {
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaeum/react-russian-map.git"
+    "url": "https://github.com/petrov-ro/react-russian-colored-map.git"
   },
   "keywords": [
     "react",
     "map"
   ],
   "author": {
-    "name": "vaeum"
+    "name": "petrov-ro"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vaeum/react-russian-map/issues"
+    "url": "https://github.com/petrov-ro/react-russian-colored-map/issues"
   },
-  "homepage": "https://github.com/vaeum/react-russian-map#readme",
+  "homepage": "https://github.com/petrov-ro/react-russian-colored-map#readme",
   "devDependencies": {
     "json-loader": "^0.5.4",
     "react": "^18.2.0",
