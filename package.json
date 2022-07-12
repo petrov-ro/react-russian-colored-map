@@ -1,15 +1,15 @@
 {
   "name": "react-russian-colored-map",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "React component russian colored map",
   "main": "dist/bundle.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "react-scripts start",
     "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/petrov-ro/react-russian-colored-map.git"
+    "url": "git+https://github.com/petrov-ro/react-russian-colored-map.git"
   },
   "keywords": [
     "react",
@@ -38,10 +38,23 @@
     "dotenv-webpack": "^7.1.1",
     "mini-css-extract-plugin": "^2.6.1",
     "postcss-loader": "^7.0.0",
+    "react-scripts": "^5.0.1",
     "sass": "^1.53.0",
     "sass-loader": "^13.0.2",
     "ts-loader": "^9.3.1",
     "typescript": "^4.7.4",
     "webpack-dev-server": "^4.9.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

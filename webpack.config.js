@@ -12,7 +12,7 @@ module.exports = {
     globalObject: `(typeof self !== 'undefined' ? self : this)`
   },
   resolve: {
-    extensions: ['', '.js', '.jsx', '.scss', '.css', 'json'],
+    extensions: ['', '.ts', '.tsx', '.js', '.jsx', '.scss', '.css', 'json'],
   },
   module: {
     rules: [
