@@ -1,8 +1,8 @@
 {
   "name": "react-russian-colored-map",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "React component russian colored map",
-  "main": "lib/russianMap.js",
+  "main": "dist/bundle.js",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack --config webpack.config.js"
@@ -16,7 +16,8 @@
     "map"
   ],
   "author": {
-    "name": "petrov-ro"
+    "name": "Roman Petrov",
+    "email": "petrov.ro@gmail.com"
   },
   "license": "ISC",
   "bugs": {

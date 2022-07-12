@@ -4,7 +4,7 @@ const DotenvPlug = require('dotenv-webpack');
 
 module.exports = {
   mode: 'production',
-  entry: './src/index.js',
+  entry: './src/containers/RussianMap.tsx',
   output: {
     path: __dirname + '/dist',
     filename: 'bundle.js',
